@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "allowUnreachableCode": true,
+    "strict": true,
+    "exactOptionalPropertyTypes": true,
+    "noImplicitAny": true,
+    "noImplicitOverride": true,
+    "strictNullChecks": true,
+    "baseUrl": "./",
+    "module": "ESNext",
+
+  }
+}

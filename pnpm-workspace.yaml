@@ -1,0 +1,7 @@
+packages:
+  - 'packages/**/*'
+catalogs:
+  cozeConf:
+    es-toolkit: ^1.10.0
+
+

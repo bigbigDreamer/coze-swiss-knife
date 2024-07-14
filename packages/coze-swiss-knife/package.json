@@ -1,0 +1,21 @@
+{
+  "name": "coze-swiss-knife",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "typings": "./src/index.ts",
+  "module": "./lib/bundle.js",
+  "scripts": {
+    "build": "rm -rf ./lib && rollup -c"
+  },
+  "keywords": [],
+  "author": "",
+  "files": [
+    "src",
+    "lib"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "es-toolkit": "catalog:cozeConf"
+  }
+}
